@@ -6,7 +6,7 @@ An introduction to DSP fundamentals using low-cost, high-performance Arm Cortex-
 
 ## [Download here](https://github.com/arm-university/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers/blob/main/Digital%20Signal%20Processing%20using%20Arm%20Cortex-M%20based%20Microcontrollers.pdf)
 
-## Resource Aim
+## About this Book
 The Arm Digital Signal Processing (DSP) textbook introduces readers to DSP fundamentals using low-cost, high-performance Arm Cortex-M based microcontrollers as demonstrator platforms. To help readers understand DSP, it covers foundational concepts, principles and techniques, such as signals and systems, sampling, reconstruction and anti-aliasing, FIR and IIR filter design, transforms, and adaptive signal processing. Key features for those learning DSP include a set of hands-on labs that highlight the practical side, end-of-chapter exercises that reinforce the theoretical concepts presented (with answers available online), and online instructor resources. 
 
 The textbook is suitable for use in Electronic and Computer Engineering (ECE), Electrical Engineering (EE) and Computer Science (CS) university departments. The labs in this textbook edition target the low-cost Arm Cortex M4-based STM32F4 Discovery microcontroller board.
