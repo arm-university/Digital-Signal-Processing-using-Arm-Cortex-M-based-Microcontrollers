@@ -35,7 +35,7 @@ The textbook is suitable for use in Electronic and Computer Engineering (ECE), E
 11. Real-Time Digital Signal Processing
 
 ## License
-You are free to fork, clone or download this book in PDF format for personal, non-commerical use only. 
+You are free to fork, clone or download this book in PDF format for personal, non-commercial use only. 
 You may reprint or republish portions of the text for non-commercial, educational or research purposes but only if there is an attribution to Arm Education.
 
 ## Inclusive Language Commitment
