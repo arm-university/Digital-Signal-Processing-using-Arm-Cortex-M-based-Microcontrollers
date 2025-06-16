@@ -1,4 +1,4 @@
-## Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers
+# Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers
 
 ## Important
 ### To download the latest stable version, please click below instead of using the "Download ZIP" button.
