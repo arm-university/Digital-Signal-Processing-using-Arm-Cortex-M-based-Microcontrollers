@@ -1,13 +1,14 @@
 ## Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers
 
-Textbook by Cem Ursalan, M. Erkin Yucel & H. Deniz Gurhan
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers/releases/download/v2.0.0/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers-main.zip)
+
+## About this Book
 
 An introduction to DSP fundamentals using low-cost, high-performance Arm Cortex-M based microcontrollers
 
-## [Download here](https://github.com/arm-university/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers/blob/main/DigitalSignalProcessing_textbook.pdf)
-
-## About this Book
-The Arm Digital Signal Processing (DSP) textbook introduces readers to DSP fundamentals using low-cost, high-performance Arm Cortex-M based microcontrollers as demonstrator platforms. To help readers understand DSP, it covers foundational concepts, principles and techniques, such as signals and systems, sampling, reconstruction and anti-aliasing, FIR and IIR filter design, transforms, and adaptive signal processing. Key features for those learning DSP include a set of hands-on labs that highlight the practical side, end-of-chapter exercises that reinforce the theoretical concepts presented (with answers available online), and online instructor resources. 
+This textbook by Cem Ursalan, M. Erkin Yucel & H. Deniz Gurhan introduces readers to DSP fundamentals using low-cost, high-performance Arm Cortex-M based microcontrollers as demonstrator platforms. To help readers understand DSP, it covers foundational concepts, principles and techniques, such as signals and systems, sampling, reconstruction and anti-aliasing, FIR and IIR filter design, transforms, and adaptive signal processing. Key features for those learning DSP include a set of hands-on labs that highlight the practical side, end-of-chapter exercises that reinforce the theoretical concepts presented (with answers available online), and online instructor resources. 
 
 The textbook is suitable for use in Electronic and Computer Engineering (ECE), Electrical Engineering (EE) and Computer Science (CS) university departments. The labs in this textbook edition target the low-cost Arm Cortex M4-based STM32F4 Discovery microcontroller board. Answers to the lab exercises can be [downloaded here](https://github.com/arm-university/Digital-Signal-Processing-using-Arm-Cortex-M-based-Microcontrollers/blob/main/Exercise%20Answers%20to%20Labs_DSPtextbook.7z).
 
